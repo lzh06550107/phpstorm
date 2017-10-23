@@ -1,0 +1,15 @@
+<templateSet group="PHP">
+  <template name="cls" value="class $CLASS_NAME$ {&#10;    $END$&#10;}" description="定义类" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="trycatch" value="try {&#10;    $SELECTION$&#10;} catch ($TYPE$ $$$VARIABLENAME$) {&#10;    $END$&#10;}" description="捕获错误" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="complete()" defaultValue="&quot;EXCEPTION&quot;" alwaysStopAt="true" />
+    <variable name="VARIABLENAME" expression="" defaultValue="&quot;exception&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

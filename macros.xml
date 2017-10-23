@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test">
+      <typing text-keycode="32:0;84:0;72:0;73:0;83:0;32:0;73:0;83:0;32:0;65:0;32:0;72:0;79:0;78:0;71:0">&amp;#x20;this&amp;#x20;is&amp;#x20;a&amp;#x20;hong</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="77:0;65:0;82:0;67:0">marc</typing>
+    </macro>
+  </component>
+</application>
