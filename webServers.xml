@@ -4,6 +4,9 @@
       <webServer id="88256c0e-7d35-41f5-b582-562ccc8a70c6" name="weqin0.8" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="435466da-22a1-464e-b5ba-7535fa0d277a" name="demo" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
