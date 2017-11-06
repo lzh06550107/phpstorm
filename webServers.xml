@@ -7,6 +7,9 @@
       <webServer id="435466da-22a1-464e-b5ba-7535fa0d277a" name="demo" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8179bbd4-296f-45a2-a803-55c7affe3bd5" name="tpshop" url="http://www.tpshop.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
