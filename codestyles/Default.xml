@@ -11,9 +11,6 @@
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
