@@ -10,6 +10,9 @@
       <webServer id="8179bbd4-296f-45a2-a803-55c7affe3bd5" name="tpshop" url="http://www.tpshop.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="418376a0-9e19-45ed-bcc8-93ab600a7a2e" name="dedecms" url="http://www.dedecms.com.cn">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
