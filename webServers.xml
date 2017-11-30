@@ -13,6 +13,9 @@
       <webServer id="418376a0-9e19-45ed-bcc8-93ab600a7a2e" name="dedecms" url="http://www.dedecms.com.cn">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1d3ff5e9-1aae-4d78-86ba-bd827d791303" name="demo" url="http://www.demo.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
