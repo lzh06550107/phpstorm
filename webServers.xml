@@ -13,7 +13,10 @@
       <webServer id="418376a0-9e19-45ed-bcc8-93ab600a7a2e" name="dedecms" url="http://www.dedecms.com.cn">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="1d3ff5e9-1aae-4d78-86ba-bd827d791303" name="demo" url="http://www.demo.com">
+      <webServer id="1d3ff5e9-1aae-4d78-86ba-bd827d791303" name="demo (1)" url="http://www.demo.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="04704fd2-927b-4101-b37b-29e343a26b7f" name="wordpress" url="http://www.wordpress_learn.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
