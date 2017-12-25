@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/JetBrains/phpstorm-workshop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lzh06550107/jquery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\php_source" />
+    <option name="cloneParentDir" value="D:\web_source" />
   </component>
 </application>
