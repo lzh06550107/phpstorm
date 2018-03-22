@@ -6,14 +6,14 @@
       <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-5.5.38\php.exe" id="930ea3aa-744c-4ae3-8807-08f6a2e05ab5" name="本地 PHP 5.5.38" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-5.6.27-nts\php.exe" id="4886a257-e0a4-47a6-99a7-a385c72d4152" name="本地 PHP 5.6.27-nts" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-7.0.12-nts\php.exe" id="30abff4d-2118-46c8-b5c5-b6f8105823b7" name="本地 PHP 7.0.12-nts" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://liao06550107@35.229.174.18:22/application/php5.5.38/bin/php" id="0dd7b01e-4822-4506-8a3c-727ccfced491" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
+      <interpreter home="ssh://liao06550107@35.229.174.18:22/application/php5.5.38/bin/php" id="0dd7b01e-4822-4506-8a3c-727ccfced491" name="Remote PHP 5.5.38" debugger_id="php.debugger.XDebug">
         <remote_data HOST="35.229.174.18" PORT="22" USERNAME="liao06550107" PRIVATE_KEY_FILE="D:\home\.ssh\my-ssh-key" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/application/php5.5.38/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="Remote PHP 5.6">
+      <interpreter name="Remote PHP 5.5.38">
         <phpinfo binary_type="PHP" php_cgi="/application/php5.5.38/bin/php-cgi" php_cli="/application/php5.5.38/bin/php" path_separator=":" remote_host="183.240.202.15" version="5.5.38">
           <additional_php_ini />
           <configuration_file>/application/php5.5.38/etc/php.ini</configuration_file>
