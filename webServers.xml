@@ -19,6 +19,9 @@
       <webServer id="04704fd2-927b-4101-b37b-29e343a26b7f" name="wordpress" url="http://www.wordpress_learn.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3b90aa6d-ada2-484f-87ec-472180f9cce9" name="zouba.test" url="http://www.zouba.com.cn">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
