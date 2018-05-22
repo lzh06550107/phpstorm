@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/Gregwar/RST.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HanSon/my-vbot" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\php_source" />
