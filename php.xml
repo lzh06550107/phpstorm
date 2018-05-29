@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-5.4.45\php.exe" id="6cfb7e09-ff66-490d-aa7e-01040aa10751" name="本地 PHP 5.4" debugger_id="php.debugger.XDebug" />
+      <interpreter home="D:\program\phpstudy2018\PHPTutorial\php\php-5.4.45\php.exe" id="6cfb7e09-ff66-490d-aa7e-01040aa10751" name="本地 PHP 5.4" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-5.4.45-nts\php.exe" id="6a48a526-8c8d-4e28-9301-3b37fff5a82d" name="本地 PHP 5.4-nts" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-5.5.38\php.exe" id="930ea3aa-744c-4ae3-8807-08f6a2e05ab5" name="本地 PHP 5.5.38" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\program\phpstudy2017\PHPTutorial\php\php-5.6.27-nts\php.exe" id="4886a257-e0a4-47a6-99a7-a385c72d4152" name="本地 PHP 5.6.27-nts" debugger_id="php.debugger.XDebug" />
@@ -1080,9 +1080,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="本地 PHP 5.4">
-        <phpinfo binary_type="PHP" php_cgi="D:\program\phpstudy2017\PHPTutorial\php\php-5.4.45\php-cgi.exe" php_cli="D:\program\phpstudy2017\PHPTutorial\php\php-5.4.45\php.exe" path_separator=";" version="5.4.45">
+        <phpinfo binary_type="PHP" php_cgi="D:\program\phpstudy2018\PHPTutorial\php\php-5.4.45\php-cgi.exe" php_cli="D:\program\phpstudy2018\PHPTutorial\php\php-5.4.45\php.exe" path_separator=";" version="5.4.45">
           <additional_php_ini />
-          <configuration_file>D:\program\phpstudy2017\PHPTutorial\php\php-5.4.45\php.ini</configuration_file>
+          <configuration_file>D:\program\phpstudy2018\PHPTutorial\php\php-5.4.45\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -1132,7 +1132,7 @@
             <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="D:\program\phpstudy2017\PHPTutorial\php\php-5.4.45\ext" />
+            <configuration_option name="extension_dir" value="D:\program\phpstudy2018\PHPTutorial\php\php-5.4.45\ext" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -1152,8 +1152,6 @@
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value=".;C:\php\pear" />
-            <configuration_option name="intl.default_locale" value="" />
-            <configuration_option name="intl.error_level" value="0" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="1" />
@@ -1253,7 +1251,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
-            <configuration_option name="session.save_path" value="D:\program\phpstudy2017\PHPTutorial\tmp\tmp" />
+            <configuration_option name="session.save_path" value="D:\program\phpstudy2018\PHPTutorial\tmp\tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
@@ -1311,17 +1309,17 @@
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
             <configuration_option name="xdebug.profiler_enable" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="D:\program\phpstudy2017\PHPTutorial\tmp\xdebug" />
-            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.profiler_output_dir" value="D:\program\phpstudy2018\PHPTutorial\tmp\xdebug" />
+            <configuration_option name="xdebug.profiler_output_name" value="cache.out.%t-%s" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
@@ -1330,12 +1328,12 @@
             <configuration_option name="xdebug.show_exception_trace" value="0" />
             <configuration_option name="xdebug.show_local_vars" value="0" />
             <configuration_option name="xdebug.show_mem_delta" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="1" />
             <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
             <configuration_option name="xdebug.trace_format" value="0" />
             <configuration_option name="xdebug.trace_options" value="0" />
-            <configuration_option name="xdebug.trace_output_dir" value="D:\program\phpstudy2017\PHPTutorial\tmp\xdebug" />
-            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.trace_output_dir" value="D:\program\phpstudy2018\PHPTutorial\tmp\xdebug" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c.%p" />
             <configuration_option name="xdebug.var_display_max_children" value="128" />
             <configuration_option name="xdebug.var_display_max_data" value="512" />
             <configuration_option name="xdebug.var_display_max_depth" value="3" />
@@ -1371,13 +1369,11 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="ereg" />
-            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
             <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
-            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
